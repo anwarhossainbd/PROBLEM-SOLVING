@@ -20,4 +20,14 @@ int main(){
 
  cout<<setprecision(2) <<s<<endl ;
 
+
+
+
+
+
+// cout<<fixed ;
+// cout<<setprecision(2) <<"media = "<<d<<endl  ;
+
 }
+
+
